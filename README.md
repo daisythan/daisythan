@@ -1,8 +1,7 @@
 ## Hey, Daisy here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my data-driven world</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-daisythan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daisy-than/)](https://www.linkedin.com/in/daisy-than/)  
-
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daisy-than/)](https://www.linkedin.com/in/daisy-than/)
 <div style="text-align: right">I turn messy data into actionable insights</div>
 
 ---
