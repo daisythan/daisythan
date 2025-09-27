@@ -15,8 +15,6 @@
 * Cloud Data Engineering (AWS Redshift, dbt, Airflow, Fivetran)  
 * Business Intelligence (Power BI, Tableau, Power Apps)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact"/>
-
 ---
 
 ## Programming & Tools
@@ -31,9 +29,6 @@ class WhoAmI:
     current_role = 'Analytics Engineer @ AbbVie'
     education = 'M.S. Computational Data Analytics (OMSA, Georgia Tech)'
     skills = ['Machine Learning', 'Forecasting', 'Data Engineering', 'Visualization']
-
-    def get_location():
-        return "Chicago, IL / Houston, TX"
 
     def career_goal():
         return "Advance into Data Scientist roles building models that drive business impact"
