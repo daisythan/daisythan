@@ -1,8 +1,6 @@
 ## Hey, Daisy here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my data-driven world</h1>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Matrix Code" align="right"/>
-
 [![Linkedin Badge](https://img.shields.io/badge/-daisythan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daisy-than/)](https://www.linkedin.com/in/daisy-than/)  
 
 <p align="left"> </p>
